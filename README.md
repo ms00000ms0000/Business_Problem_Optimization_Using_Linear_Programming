@@ -68,6 +68,10 @@ Transportation costs vary between warehouse–store pairs.
 
 ## 📊 Visualization
 
+
+<img width="863" height="504" alt="image" src="https://github.com/user-attachments/assets/0c53bc73-3c9f-4139-aaf6-95dd6e4337fd" />
+
+
 The optimized supply chain solution is visualized to:
 - Show shipment routes
 - Display flow quantities
