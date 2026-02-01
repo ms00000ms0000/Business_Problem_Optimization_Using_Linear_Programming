@@ -86,5 +86,14 @@ Visualization helps bridge the gap between **technical solutions and business de
 
 ---
 
+## 📁 Repository Structure  
+
+```
+📦 Business_Problem_Optimization_Using_Linear_Programming 
+│
+├── Business_Problem_Optimization_Using_Linear_Programming.ipynb                                       # Jupyter Notebook with full implementation
+└── README.md                                                                                          # Project documentation
+```
+---
 
 
