@@ -2,12 +2,12 @@
 
 ## 📌 Internship Task – 4 (CODTECH)
 
-COMPANY- CODTECH IT SOLUTIONS
-NAME- MAYANK SRIVASTAVA
-INTERN ID- CTIS4257
-DOMAIN- DATA SCIENCE
-DURATION - 12 WEEKS
-MENTOR - NEELA SANTHOSH KUMAR
+-COMPANY- CODTECH IT SOLUTIONS
+-NAME- MAYANK SRIVASTAVA
+-INTERN ID- CTIS4257
+-DOMAIN- DATA SCIENCE
+-DURATION - 12 WEEKS
+-MENTOR - NEELA SANTHOSH KUMAR
 
 This project demonstrates how **optimization techniques**, specifically **Linear Programming (LP)**, can be applied to solve real-world **business and supply chain problems** using **Python and the PuLP library**.
 
